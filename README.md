@@ -8,3 +8,5 @@ date=06/01/2025, question-1=[Sum Pair closest to target]([https://www.geeksforge
 date=07/01/2025, question-1=[Pair with given sum in a sorted array]([https://www.geeksforgeeks.org/problem-of-the-day))(
                , question-2=[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/?envType=daily-question&envId=2025-01-07)
                
+date=08/01/2025, question-1=[Count Prefix and Suffix Pairs I]([https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08))(
+               , question-2=[Count the number of possible triangles](https://www.geeksforgeeks.org/problems/count-possible-triangles-1587115620/1)
