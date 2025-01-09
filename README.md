@@ -10,3 +10,7 @@ date=07/01/2025, question-1=[Pair with given sum in a sorted array]([https://www
                
 date=08/01/2025, question-1=[Count Prefix and Suffix Pairs I]([https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08))(
                , question-2=[Count the number of possible triangles](https://www.geeksforgeeks.org/problems/count-possible-triangles-1587115620/1)
+
+
+date=09/01/2025, question-1=[Indexes of Subarray Sum]([https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1]))(
+               , question-2=[]()               
