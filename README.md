@@ -22,5 +22,10 @@ date=11/01/2025, question-1=[Construct K Palindrome Strings]([https://leetcode.c
                , question-2=[Longest substring with distinct characters
 ](https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1)   
 
-date=12/01/2025, question-1=[Check if a Parentheses String Can Be Valid]([https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/?envType=daily-question&envId=2025-01-12]))(
+date=12/01/2025, question-1=[Check if a Parentheses String Can Be Valid]([https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/?envType=daily-question&envId=2025-01-12]))
+
+
+date=13/01/2025, question-1=[Minimum Length of String After Operations
+]([https://leetcode.com/problems/minimum-length-of-string-after-operations/description/?envType=daily-question&envId=2025-01-13]))(
+               , question-2=[Container With Most Water](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1)
                
