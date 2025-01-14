@@ -27,6 +27,7 @@ date=12/01/2025, question-1=[Check if a Parentheses String Can Be Valid]([https:
 
 date=13/01/2025, question-1=[Minimum Length of String After Operations
 ]([https://leetcode.com/problems/minimum-length-of-string-after-operations/description/?envType=daily-question&envId=2025-01-13]))(
-               , question-2=[Container With Most Water](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1)
+               , question-2=[Container With Most Water]([https://www.geeksforgeeks.org/problems/container-with-most-water0535/1])
                
 date=14/01/2025, question-1=[Group Anagrams]([https://leetcode.com/problems/group-anagrams/submissions/1508339393/])
+                , question-2=[Equilibrium Point]([https://geeksforgeeks.org/problems/equilibrium-point-1587115620/1])
