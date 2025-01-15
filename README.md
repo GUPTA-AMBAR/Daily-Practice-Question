@@ -31,3 +31,5 @@ date=13/01/2025, question-1=[Minimum Length of String After Operations
                
 date=14/01/2025, question-1=[Group Anagrams]([https://leetcode.com/problems/group-anagrams/submissions/1508339393/])
                 , question-2=[Equilibrium Point]([https://geeksforgeeks.org/problems/equilibrium-point-1587115620/1])
+
+date=14/01/2025, question-1=[Longest Subarray with Sum K]([https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1])
