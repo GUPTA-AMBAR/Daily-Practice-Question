@@ -35,3 +35,5 @@ date=14/01/2025, question-1=[Group Anagrams]([https://leetcode.com/problems/grou
 date=15/01/2025, question-1=[Longest Subarray with Sum K]([https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1])
 
 date=17/01/2025, question-1=[Single Element in a Sorted Array]([https://leetcode.com/problems/single-element-in-a-sorted-array/description/])
+
+date=18/01/2025, question-1=[Find Minimum in Rotated Sorted Array]([https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1512708939/])
