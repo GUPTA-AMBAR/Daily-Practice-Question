@@ -43,4 +43,5 @@ date=27/01/2025, question-1=[Pascal's Triangle]([https://leetcode.com/problems/p
 date=29/01/2025, question-1=[Capacity To Ship Packages Within D Days]([https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/))(
                , question-2=[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 
-(IMPORTANT)date=30/01/2025, question-1=[Frequency of the Most Frequent Element]([https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/))
+(IMPORTANT)date=30/01/2025, question-1=[Frequency of the Most Frequent Element]([https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/])
+               , question-2=[Search a 2D Matrix]([https://leetcode.com/problems/search-a-2d-matrix/submissions/1525202420/])
