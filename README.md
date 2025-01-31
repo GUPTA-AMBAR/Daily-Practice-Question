@@ -45,3 +45,8 @@ date=29/01/2025, question-1=[Capacity To Ship Packages Within D Days]([https://l
 
 (IMPORTANT)date=30/01/2025, question-1=[Frequency of the Most Frequent Element]([https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/])
                , question-2=[Search a 2D Matrix]([https://leetcode.com/problems/search-a-2d-matrix/submissions/1525202420/])
+
+date=31/01/2025, question-1=[Special Array With X Elements Greater Than or Equal X]([https://leetcode.com/submissions/detail/1526556628/]))(
+               , question-2=[Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/submissions/detail/1526556628/) 
+               , question-3=[Koko Eating Bananas](https://leetcode.com/submissions/detail/1526344786/) 
+               , question-4=[Find a Peak Element II](https://leetcode.com/submissions/detail/1526260734/) 
