@@ -50,3 +50,8 @@ date=31/01/2025, question-1=[Special Array With X Elements Greater Than or Equal
                , question-2=[Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/submissions/detail/1526556628/) 
                , question-3=[Koko Eating Bananas](https://leetcode.com/submissions/detail/1526344786/) 
                , question-4=[Find a Peak Element II](https://leetcode.com/submissions/detail/1526260734/) 
+
+date=01/02/2025, question-1=[Average Salary Excluding the Minimum and Maximum Salary]([https://leetcode.com/submissions/detail/1527327481/]))(
+               , question-2=[Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/submissions/detail/1527291596/) 
+               , question-3=[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/) 
+               
