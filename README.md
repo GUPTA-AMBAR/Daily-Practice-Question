@@ -55,4 +55,7 @@ date=01/02/2025, question-1=[Average Salary Excluding the Minimum and Maximum Sa
                , question-2=[Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/submissions/detail/1527291596/) 
                , question-3=[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/) 
                , question-4=[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1527347450/)
-               
+
+
+date=03/01/2025, question-1=[Kth Largest Element in an Array]([https://leetcode.com/submissions/detail/1530025425/))(
+               , question-2=[Largest Number](https://leetcode.com/submissions/detail/1530061856/)               
