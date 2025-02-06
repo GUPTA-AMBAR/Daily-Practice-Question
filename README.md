@@ -61,3 +61,6 @@ date=03/02/2025, question-1=[Kth Largest Element in an Array]([https://leetcode.
                , question-2=[Largest Number](https://leetcode.com/submissions/detail/1530061856/)      
 
 date=04/02/2025, question-1=[Merge Intervals]([https://leetcode.com/submissions/detail/1530767795/))
+
+date=06/02/2025, question-1=[Fibonacci Number]([https://leetcode.com/submissions/detail/1533699646/))
+               , question-2=[Special Fibonacci]([https://www.codechef.com/problems/FIBXOR01//)) 
