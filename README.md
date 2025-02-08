@@ -64,3 +64,8 @@ date=04/02/2025, question-1=[Merge Intervals]([https://leetcode.com/submissions/
 
 date=06/02/2025, question-1=[Fibonacci Number]([https://leetcode.com/submissions/detail/1533699646/))
                , question-2=[Special Fibonacci]([https://www.codechef.com/problems/FIBXOR01//)) 
+
+
+date=08/02/2025, question-1=[Count Good Numbers]([https://leetcode.com/submissions/detail/1536044492/))
+               , question-2=[Count Items Matching a Rule]([https://leetcode.com/submissions/detail/1536066963/))  
+               , question-3=[First Missing Positive]([https://leetcode.com/submissions/detail/1536068053/))
