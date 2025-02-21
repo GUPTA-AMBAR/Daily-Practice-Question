@@ -70,8 +70,13 @@ date=08/02/2025, question-1=[Count Good Numbers]([https://leetcode.com/submissio
                , question-2=[Count Items Matching a Rule]([https://leetcode.com/submissions/detail/1536066963/))  
                , question-3=[First Missing Positive]([https://leetcode.com/submissions/detail/1536068053/))
 
-date=15/01/2025, question-1=[Find Valid Pair of Adjacent Digits in String]([https://leetcode.com/submissions/detail/1543908973/])
+date=15/02/2025, question-1=[Find Valid Pair of Adjacent Digits in String]([https://leetcode.com/submissions/detail/1543908973/])
                , question-2=[Integer to Roman](https://leetcode.com/submissions/detail/1543908973/)    
                ,question-3=[Unique Paths](https://leetcode.com/submissions/detail/1543725792/)   
                ,question-4=[Number of Steps to Reduce a Number to Zero](https://leetcode.com/submissions/detail/1543595474/) 
                ,question-5=[Power of Four](https://leetcode.com/submissions/detail/1543269800/)
+
+date=21/02/2025, question-1=[Sum of All Subset XOR Totals]([https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/))(
+               , question-2=[Decode XORed Array](https://leetcode.com/submissions/detail/1550402271/)
+               , question-3=[Count the Number of Consistent Strings](https://leetcode.com/submissions/detail/1550383488/)
+               
