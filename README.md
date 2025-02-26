@@ -82,3 +82,7 @@ date=21/02/2025, question-1=[Sum of All Subset XOR Totals]([https://leetcode.com
 
 date=23/02/2025, question-1=[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/))(
                , question-2=[Combination Sum](https://leetcode.com/submissions/detail/1552449191/)
+
+
+date=26/02/2025, question-1=[The kth Factor of n]([https://leetcode.com/problems/the-kth-factor-of-n/submissions/1556134190/))(
+               , question-2=[Angle Between Hands of a Clock](https://leetcode.com/submissions/detail/1555037414/)               
