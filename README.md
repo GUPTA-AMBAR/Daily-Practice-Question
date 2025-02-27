@@ -85,4 +85,8 @@ date=23/02/2025, question-1=[String to Integer (atoi)](https://leetcode.com/prob
 
 
 date=26/02/2025, question-1=[The kth Factor of n]([https://leetcode.com/problems/the-kth-factor-of-n/submissions/1556134190/))(
-               , question-2=[Angle Between Hands of a Clock](https://leetcode.com/submissions/detail/1555037414/)               
+               , question-2=[Angle Between Hands of a Clock](https://leetcode.com/submissions/detail/1555037414/)   
+
+
+date=27/02/2025, question-1=[Queries on Number of Points Inside a Circle]([https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/))
+               
