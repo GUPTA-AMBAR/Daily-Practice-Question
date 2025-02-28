@@ -89,4 +89,6 @@ date=26/02/2025, question-1=[The kth Factor of n]([https://leetcode.com/problems
 
 
 date=27/02/2025, question-1=[Queries on Number of Points Inside a Circle]([https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/))
+
+date=27/02/2025, question-1=[Multiply Strings]([https://leetcode.com/problems/multiply-strings/submissions/1558003017/]))
                
