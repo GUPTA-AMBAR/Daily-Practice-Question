@@ -91,4 +91,7 @@ date=26/02/2025, question-1=[The kth Factor of n]([https://leetcode.com/problems
 date=27/02/2025, question-1=[Queries on Number of Points Inside a Circle]([https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/))
 
 date=27/02/2025, question-1=[Multiply Strings]([https://leetcode.com/problems/multiply-strings/submissions/1558003017/]))
+
+
+date=05/03/2025, question-1=[Count Total Number of Colored Cells]([https://leetcode.com/problems/count-total-number-of-colored-cells/description/?envType=daily-question&envId=2025-03-05))
                
