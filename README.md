@@ -96,4 +96,6 @@ date=27/02/2025, question-1=[Multiply Strings]([https://leetcode.com/problems/mu
 date=05/03/2025, question-1=[Count Total Number of Colored Cells]([https://leetcode.com/problems/count-total-number-of-colored-cells/description/?envType=daily-question&envId=2025-03-05))
 
 
-date=06/03/2025, question-1=[Find Missing and Repeated Values]([https://leetcode.com/problems/find-missing-and-repeated-values/description/?envType=daily-question&envId=2025-03-06))               
+date=06/03/2025, question-1=[Find Missing and Repeated Values]([https://leetcode.com/problems/find-missing-and-repeated-values/description/?envType=daily-question&envId=2025-03-06))         
+
+date=07/03/2025, question-1=[Closest Prime Numbers in Range]([https://leetcode.com/problems/closest-prime-numbers-in-range/?envType=daily-question&envId=2025-03-07))
