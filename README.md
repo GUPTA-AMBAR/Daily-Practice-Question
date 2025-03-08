@@ -99,3 +99,6 @@ date=05/03/2025, question-1=[Count Total Number of Colored Cells]([https://leetc
 date=06/03/2025, question-1=[Find Missing and Repeated Values]([https://leetcode.com/problems/find-missing-and-repeated-values/description/?envType=daily-question&envId=2025-03-06))         
 
 date=07/03/2025, question-1=[Closest Prime Numbers in Range]([https://leetcode.com/problems/closest-prime-numbers-in-range/?envType=daily-question&envId=2025-03-07))
+
+
+date=08/03/2025, question-1=[Minimum Recolors to Get K Consecutive Black Blocks]([https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08))
