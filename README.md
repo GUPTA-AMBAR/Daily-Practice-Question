@@ -102,3 +102,5 @@ date=07/03/2025, question-1=[Closest Prime Numbers in Range]([https://leetcode.c
 
 
 date=08/03/2025, question-1=[Minimum Recolors to Get K Consecutive Black Blocks]([https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08))
+
+date=09/03/2025, question-1=[Alternating Groups II]([https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09))
