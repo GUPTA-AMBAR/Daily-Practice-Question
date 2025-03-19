@@ -106,3 +106,7 @@ date=08/03/2025, question-1=[Minimum Recolors to Get K Consecutive Black Blocks]
 date=09/03/2025, question-1=[Alternating Groups II]([https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09))
 
 date=17/03/2025, question-1=[Divide Array Into Equal Pairs]([https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17]))
+
+date=19/03/2025, question-1=[Minimum Operations to Make Binary Array Elements Equal to One I]([https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19]))
+              , question-2=[Letter Combinations of a Phone Number]([https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/]))
+
