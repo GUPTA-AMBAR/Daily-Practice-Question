@@ -111,5 +111,7 @@ date=19/03/2025, question-1=[Minimum Operations to Make Binary Array Elements Eq
               , question-2=[Letter Combinations of a Phone Number]([https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/]))
 
 
-date=20/03/2025, question-1=[Generate Parentheses]([https://leetcode.com/problems/generate-parentheses/description/]))              
+date=20/03/2025, question-1=[Generate Parentheses]([https://leetcode.com/problems/generate-parentheses/description/]))  
+
+date=23/03/2025, question-1=[N-Queens]([https://leetcode.com/problems/n-queens/description/]))  
 
