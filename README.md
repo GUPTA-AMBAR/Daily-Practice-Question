@@ -115,3 +115,8 @@ date=20/03/2025, question-1=[Generate Parentheses]([https://leetcode.com/problem
 
 date=23/03/2025, question-1=[N-Queens]([https://leetcode.com/problems/n-queens/description/]))  
 
+
+
+date=24/03/2025, question-1=[Sudoku Solver]([https://leetcode.com/problems/sudoku-solver/description/]))(
+               , question-2=[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)   
+
