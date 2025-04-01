@@ -118,5 +118,7 @@ date=23/03/2025, question-1=[N-Queens]([https://leetcode.com/problems/n-queens/d
 
 
 date=24/03/2025, question-1=[Sudoku Solver]([https://leetcode.com/problems/sudoku-solver/description/]))(
-               , question-2=[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)   
+               , question-2=[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) 
+
+date=01/04/2025, question-1=[Solving Questions With Brainpower]([https://leetcode.com/problems/solving-questions-with-brainpower/description/?envType=daily-question&envId=2025-04-01]))                 
 
